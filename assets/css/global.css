@@ -6,11 +6,11 @@
 
 @font-face{
     font-family: 'Neue Machina';
-    src: url('/assets/fonts/neue-machina-regular.otf');
+    src: url('assets/fonts/neue-machina-regular.otf');
 }
 
 body{
-    background-image: url('/assets/img/fundo.png');
+    background-image: url('assets/img/fundo.png');
     color: white;
 }
 
