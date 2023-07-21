@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    /* todos os componentes teram o mesmo padrão*/
+    font-family: "Open Sans", sans-serif;
+}
+
+@font-face{
+    font-family: 'Neue Machina';
+    src: url('/assets/fonts/neue-machina-regular.otf');
+}
+
+body{
+    background-image: url('/assets/img/fundo.png');
+    color: white;
+}
+
+.main{
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #fff ;
+    border-radius: 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .main {
+        max-width: 1024px;
+        margin: 1rem auto;
+    }
+
+}

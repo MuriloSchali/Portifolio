@@ -48,7 +48,7 @@
   "portfolio": [
     {
       "name": "Car Control - Projeto Acadêmico",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/abnerdsilva/carcontrol",
       "github": true
     },
     {
@@ -57,7 +57,7 @@
       "github": true
     },
     {
-      "name": "Aprendendo Java",
+      "name": "Learning Java",
       "url": "https://github.com/MuriloSchali/Learning-Java",
       "github": true
     }
