@@ -45,7 +45,7 @@
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/assets/img/icons/arrow-top.png");
+    background-image: url("../img/icons/arrow-top.png");
     transition: .40s;
 }
 
